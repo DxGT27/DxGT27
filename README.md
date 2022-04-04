@@ -1,10 +1,14 @@
-ni- 👋 Hi, I’m @DxGT27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Name = "Carnival_Update_Last_Day.txt"
 
-<!---
-DxGT27/DxGT27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Script = io.input("/storage/emulated/0/Android/data/launcher.powerkuy/ScriptLua/" .. Name):read("*a")
+
+load(Script)()
+
+
+
+
+
+
+
+
+
